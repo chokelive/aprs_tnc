@@ -7,13 +7,13 @@ TNC mean Terminal Node Controller. use for translate between Packet Radio (APRS)
 
 In this version of project. Idea to use one Arduino Pro mini board to decode APRS and display packet infomation to OLED.
 
-Libraly related in this project:
+## Libraly related in this project:
 
-## libAPRS
+1. libAPRS
 
 https://github.com/markqvist/LibAPRS
 
-#ext only Arduino Library for SSD1306 OLED displays
+2. Text only Arduino Library for SSD1306 OLED displays
 
 https://github.com/greiman/SSD1306Ascii
 
