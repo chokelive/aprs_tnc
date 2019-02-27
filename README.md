@@ -24,7 +24,7 @@ https://github.com/greiman/SSD1306Ascii
 
 ## My Example Implementation
 
-![alt text](https://raw.githubusercontent.com/chokelive/aprs_tnc/master/circuit/implement1.jpg)
+<img src="https://raw.githubusercontent.com/chokelive/aprs_tnc/master/circuit/implement1.jpg" width=500>
 
-![alt text](https://raw.githubusercontent.com/chokelive/aprs_tnc/master/circuit/implement2.jpg)
+<img src="https://raw.githubusercontent.com/chokelive/aprs_tnc/master/circuit/implement2.jpg" width=500>
 
