@@ -1,5 +1,5 @@
 # aprs_tnc
-##APRS TNC Decoder and OLED display
+## APRS TNC Decoder and OLED display
 
 This is HAM Radio project releate to APRS (Automatic Packet Reporting System) for send and receive positioning report via HAM radio equipment.
 
@@ -9,7 +9,7 @@ In this version of project. Idea to use one Arduino Pro mini board to decode APR
 
 Libraly related in this project:
 
-#libAPRS
+## libAPRS
 
 https://github.com/markqvist/LibAPRS
 
@@ -18,5 +18,7 @@ https://github.com/markqvist/LibAPRS
 https://github.com/greiman/SSD1306Ascii
 
 
-Circuit Diagram
+## Circuit Diagram
+
+![alt text](https://raw.githubusercontent.com/chokelive/aprs_tnc/master/circuit/circuit.JPG)
 
